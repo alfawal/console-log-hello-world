@@ -1,8 +1,11 @@
 {
-  "name": "console-log-hello-world",
+  "name": "@alfawal/console-log-hello-world",
   "version": "1.0.0",
   "description": "Logs \"Hello, World!\" to the console.",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alfawal/console-log-hello-world.git"
