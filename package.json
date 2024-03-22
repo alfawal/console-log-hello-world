@@ -1,6 +1,6 @@
 {
   "name": "@alfawal/console-log-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logs \"Hello, World!\" to the console.",
   "main": "index.js",
   "scripts": {
