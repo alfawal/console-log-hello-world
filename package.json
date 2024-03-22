@@ -1,0 +1,16 @@
+{
+  "name": "console-log-hello-world",
+  "version": "1.0.0",
+  "description": "Logs \"Hello, World!\" to the console.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfawal/console-log-hello-world.git"
+  },
+  "author": "Abdulrahman Alfawal <gh@alfawal.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfawal/console-log-hello-world/issues"
+  },
+  "homepage": "https://github.com/alfawal/console-log-hello-world#readme"
+}
